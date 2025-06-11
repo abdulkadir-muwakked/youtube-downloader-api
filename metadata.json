@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Downloader UI",
+  "description": "A user interface to submit YouTube download requests to a backend service. This frontend application allows users to specify a YouTube URL, desired format (audio/video), and a filename, then simulates sending this request to a server.",
+  "requestFramePermissions": []
+}
